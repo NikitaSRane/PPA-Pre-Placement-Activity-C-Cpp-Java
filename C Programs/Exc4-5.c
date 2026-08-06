@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    int a=10;
+    const int *ptr=&a;
+    //*ptr=50;
+    printf("%d",ptr);
+    return 0;
+}
