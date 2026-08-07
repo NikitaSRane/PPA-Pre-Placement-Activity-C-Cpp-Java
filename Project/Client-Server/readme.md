@@ -59,8 +59,8 @@ java Client1
 
 Here are the output images showcasing the running application:
 
-### Server and Client Communication
-![Chat Application Output 1](./Output/ClientChat.png)
+### Client Communication
+![Client Screenshot](./Output/ClientChat.png)
 
-### Active Text Exchange
-![Chat Application Output 2](./Output/ServerChat.png)
+### Server Communication
+![Server Screenshot](./Output/ServerChat.png)
